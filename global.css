@@ -1,0 +1,85 @@
+body {
+	background:			#000000;
+	margin: 			0px;
+}
+
+#wrapper {
+	width: 				1250px;
+	float:				left;
+}
+
+#header {
+	width:				700px;
+	height: 			200px;
+	margin:				100px, 1000px, 100px, 100px;
+	float:				top;
+	text-align:			center;
+	font-family:      	Georgia, "Times New Roman", Times, serif;
+	font-size:        	large;
+	padding:			50px;
+	color:				#C1C1C1;
+}
+
+#top{
+	text-align:			center;
+	font-family:		"copperplate gothic light";
+	font-size:        	35px;
+	color:            	#000000;
+	word-spacing:		30px;
+	
+}
+
+#middle{
+	margin:				50px;
+	text-align:			left;
+	font-family:		"copperplate gothic light";
+	font-size:        	30px;
+	color:            	#12345a;
+}
+
+h1 {
+	text-align:			center;
+	font-family:		"copperplate gothic light";
+	font-size:			75px;
+	color:				#FFFFFF;
+	font-style:			italic;
+}
+
+h2 {
+	text-align:			center;
+	font-family:		"copperplate gothic light";
+	font-size:			50px;
+	color:				#0021a6;
+	margin:				50px;
+}
+
+h3 {
+	margin-left:		200px;
+}
+
+p {
+	font-family:		"copperplate gothic light";
+	text-align:			center;
+	color:				#001774;
+	float:				up;
+}
+
+li {
+	margin-left:		65px;
+	color:            	#001774;
+}
+
+ol {
+	list-style-type:	none;
+	margin-right:		130px;
+	text-align:			center;
+	color:				#FFFFFF;
+}
+
+ul {
+	text-align:			left;
+}
+	
+a {
+	font-size:			25px;
+}
